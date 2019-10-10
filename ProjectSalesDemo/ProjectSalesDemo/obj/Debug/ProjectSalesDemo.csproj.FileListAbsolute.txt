@@ -1,0 +1,39 @@
+C:\AB\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.exe.config
+C:\AB\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.exe
+C:\AB\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.pdb
+C:\AB\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.csprojResolveAssemblyReference.cache
+C:\AB\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.Form1.resources
+C:\AB\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.Properties.Resources.resources
+C:\AB\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.csproj.GenerateResource.Cache
+C:\AB\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.exe
+C:\AB\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.pdb
+C:\AdvC Fall 2017\Class 6 Interface,Delegate,Lambda, String Manipulation\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.exe.config
+C:\AdvC Fall 2017\Class 6 Interface,Delegate,Lambda, String Manipulation\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.exe
+C:\AdvC Fall 2017\Class 6 Interface,Delegate,Lambda, String Manipulation\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.pdb
+C:\AdvC Fall 2017\Class 6 Interface,Delegate,Lambda, String Manipulation\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.exe
+C:\AdvC Fall 2017\Class 6 Interface,Delegate,Lambda, String Manipulation\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.pdb
+C:\AdvC Fall 2017\Class 6 Interface,Delegate,Lambda, String Manipulation\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.csprojResolveAssemblyReference.cache
+C:\AdvC Fall 2017\Class 6 Interface,Delegate,Lambda, String Manipulation\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.Form1.resources
+C:\AdvC Fall 2017\Class 6 Interface,Delegate,Lambda, String Manipulation\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.Properties.Resources.resources
+C:\AdvC Fall 2017\Class 6 Interface,Delegate,Lambda, String Manipulation\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.csproj.GenerateResource.Cache
+C:\ABVB\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.exe.config
+C:\ABVB\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.exe
+C:\ABVB\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.pdb
+C:\AB\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.exe.config
+C:\AB\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.exe
+C:\AB\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.pdb
+C:\AB\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.csprojResolveAssemblyReference.cache
+C:\AB\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.Form1.resources
+C:\AB\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.Properties.Resources.resources
+C:\AB\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.csproj.GenerateResource.Cache
+C:\AB\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.exe
+C:\AB\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.pdb
+C:\AB\In Class ProjectSalesDemo Gui Download(2)\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.exe.config
+C:\AB\In Class ProjectSalesDemo Gui Download(2)\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.exe
+C:\AB\In Class ProjectSalesDemo Gui Download(2)\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.pdb
+C:\AB\In Class ProjectSalesDemo Gui Download(2)\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.exe
+C:\AB\In Class ProjectSalesDemo Gui Download(2)\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\bin\Debug\ProjectSalesDemo.pdb
+C:\AB\In Class ProjectSalesDemo Gui Download(2)\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.csprojAssemblyReference.cache
+C:\AB\In Class ProjectSalesDemo Gui Download(2)\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.Form1.resources
+C:\AB\In Class ProjectSalesDemo Gui Download(2)\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.Properties.Resources.resources
+C:\AB\In Class ProjectSalesDemo Gui Download(2)\In Class ProjectSalesDemo Gui Download\ProjectSalesDemo\ProjectSalesDemo\obj\Debug\ProjectSalesDemo.csproj.GenerateResource.cache
